@@ -1,0 +1,10 @@
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\bin\Debug\netstandard2.1\JJK.ChillVoiceMod.deps.json
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\bin\Debug\netstandard2.1\JJK.ChillVoiceMod.dll
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\bin\Debug\netstandard2.1\JJK.ChillVoiceMod.pdb
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\obj\Debug\netstandard2.1\Cavi.ChillVoiceMod.csproj.AssemblyReference.cache
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\obj\Debug\netstandard2.1\Cavi.ChillVoiceMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\obj\Debug\netstandard2.1\Cavi.ChillVoiceMod.AssemblyInfoInputs.cache
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\obj\Debug\netstandard2.1\Cavi.ChillVoiceMod.AssemblyInfo.cs
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\obj\Debug\netstandard2.1\Cavi.ChillVoiceMod.csproj.CoreCompileInputs.cache
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\obj\Debug\netstandard2.1\JJK.ChillVoiceMod.dll
+C:\Users\IiiJtt\Downloads\chill-lofi-voice-mod-1.0\src\obj\Debug\netstandard2.1\JJK.ChillVoiceMod.pdb
