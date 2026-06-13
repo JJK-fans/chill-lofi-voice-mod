@@ -1,6 +1,10 @@
 # Chill Voice Mod — BepInEx 语音替换插件
 
-用 RVC 转换后的 Hiro 语音替换《Chill with You Lo-Fi Story》游戏内角色语音。
+用 RVC 转换后的语音替换《Chill with You Lo-Fi Story》游戏内角色语音。
+这个项目是基于https://github.com/Cavibot/chill-lofi-appearance-mod/tree/main这个模型替换项目
+让claude code作为参考改出来的，以至于有些文件名甚至都没改过来
+但实际上语音替换和模型替换已经是两个东西了所以请不要在意文件命名问题，再让ai改我都怕出什么未知问题毕竟目前的项目是能跑的
+源代码都是claudecode写的，我就把他放到这里来，实际上用到的.dll和打包mod用到的unity工具.cs我还是想放在网盘链接
 
 ### 工作流程
 
@@ -48,7 +52,7 @@ chill-lofi-voice-mod-1.0/
 菜单：**Tools → Chill Voice Modding Tool**
 
 用法：
-1. **Hiro Voice Folder** — 选择 WAV 源文件夹（必须在 `Assets/` 内）
+1. **New Voice Folder** — 选择 WAV 源文件夹（必须在 `Assets/` 内）
 2. 勾选 **Disable Compression** 和 **Auto-Install**
 3. 点击 **Build & Install**
 
