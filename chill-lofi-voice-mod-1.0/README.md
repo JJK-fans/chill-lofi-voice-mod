@@ -69,8 +69,7 @@ chill-lofi-voice-mod-1.0/
 
 ```
 原始游戏 OGG (48kHz)
-    → RVC 语音转换 (Hiro 模型, f0up_key=-4, resample_sr=38773)
-    → ffmpeg 重采样到 48000Hz
+    → RVC 语音转换
     → 导出 WAV (16-bit PCM mono 48kHz)
     → Unity 导入并构建 AssetBundle
     → voice_assets_all
